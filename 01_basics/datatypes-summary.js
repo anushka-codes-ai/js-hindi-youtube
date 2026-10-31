@@ -54,12 +54,6 @@ console.log(typeof myFunction);  // in documention is call object function
 console.log(typeof anotherId);// symbol have symbol data type .
 
 
-
-
-
-
-
-
 // type of values are in documentation 
 
 
